@@ -7,7 +7,7 @@ to switch environtment:
     
            mvn spring-boot:run -Dspring-boot.run.profiles={profile.name}
     
-    or specified on application.properties file:
+   or specified on application.properties file:
     
           spring.profiles.active={profile.name}
 
